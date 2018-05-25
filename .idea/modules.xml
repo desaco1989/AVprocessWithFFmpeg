@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\FFmpegAndroid.iml" filepath="C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\FFmpegAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FFmpegAndroid-master.iml" filepath="$PROJECT_DIR$/FFmpegAndroid-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\app\app.iml" filepath="C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpegandroidaddmusic/ffmpegandroidaddmusic.iml" filepath="$PROJECT_DIR$/ffmpegandroidaddmusic/ffmpegandroidaddmusic.iml" />
+      <module fileurl="file://C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroidaddmusic\ffmpegandroidaddmusic.iml" filepath="C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroidaddmusic\ffmpegandroidaddmusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpegandroidavfilter/ffmpegandroidavfilter.iml" filepath="$PROJECT_DIR$/ffmpegandroidavfilter/ffmpegandroidavfilter.iml" />
+      <module fileurl="file://C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroidavfilter\ffmpegandroidavfilter.iml" filepath="C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroidavfilter\ffmpegandroidavfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpegandroidcameraencoder/ffmpegandroidcameraencoder.iml" filepath="$PROJECT_DIR$/ffmpegandroidcameraencoder/ffmpegandroidcameraencoder.iml" />
+      <module fileurl="file://C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroidcameraencoder\ffmpegandroidcameraencoder.iml" filepath="C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroidcameraencoder\ffmpegandroidcameraencoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpegandroidcameralive/ffmpegandroidcameralive.iml" filepath="$PROJECT_DIR$/ffmpegandroidcameralive/ffmpegandroidcameralive.iml" />
+      <module fileurl="file://C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroidcameralive\ffmpegandroidcameralive.iml" filepath="C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroidcameralive\ffmpegandroidcameralive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpegandroiddecoder/ffmpegandroiddecoder.iml" filepath="$PROJECT_DIR$/ffmpegandroiddecoder/ffmpegandroiddecoder.iml" />
+      <module fileurl="file://C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroiddecoder\ffmpegandroiddecoder.iml" filepath="C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroiddecoder\ffmpegandroiddecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpegandroidplayer/ffmpegandroidplayer.iml" filepath="$PROJECT_DIR$/ffmpegandroidplayer/ffmpegandroidplayer.iml" />
+      <module fileurl="file://C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroidplayer\ffmpegandroidplayer.iml" filepath="C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroidplayer\ffmpegandroidplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpegandroidwallpaper/ffmpegandroidwallpaper.iml" filepath="$PROJECT_DIR$/ffmpegandroidwallpaper/ffmpegandroidwallpaper.iml" />
+      <module fileurl="file://C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroidwallpaper\ffmpegandroidwallpaper.iml" filepath="C:\Users\desaco\Desktop\app_demo3\FFmpegAndroid-master\ffmpegandroidwallpaper\ffmpegandroidwallpaper.iml" />
+    </modules>
+  </component>
+</project>
